@@ -6,10 +6,6 @@ A four-page Power BI report built for a securities brokerage trading business as
 
 ---
 
-## Demo
-
-[Watch the 75-second walkthrough](Trading Business Executive Report.mp4)
-
 ## Dashboard preview
 
 | Executive View | RM Productivity |
