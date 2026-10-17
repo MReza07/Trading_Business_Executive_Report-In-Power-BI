@@ -8,17 +8,17 @@ A four-page Power BI report built for a securities brokerage trading business as
 
 ## Demo
 
-[Watch the 75-second walkthrough](Trading_Business_Executive_Report.mp4)
+[Watch the 75-second walkthrough](Trading Business Executive Report.mp4)
 
 ## Dashboard preview
 
 | Executive View | RM Productivity |
 |---|---|
-| ![Executive View](Executive_View.PNG) | ![RM Productivity](screenshots/02_rm_productivity.png) |
+| ![Executive View](Executive_View.PNG) | ![RM Productivity](RM_Productivity.PNG) |
 
 | Customer Cohorts | Branch Performance Benchmarking |
 |---|---|
-| ![Customer Cohorts](screenshots/03_customer_cohorts.png) | ![Branch Performance Benchmarking](screenshots/04_branch_benchmarking.png) |
+| ![Customer Cohorts](Customer_Cohorts.PNG) | ![Branch Performance Benchmarking](Branch_Performance_Benchmarking.PNG) |
 
 ---
 
