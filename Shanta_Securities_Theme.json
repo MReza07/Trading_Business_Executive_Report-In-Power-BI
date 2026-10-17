@@ -1,0 +1,125 @@
+{
+  "name": "Shanta Securities Brand Theme",
+  "dataColors": [
+    "#1F3A63",
+    "#C9A227",
+    "#4A6FA5",
+    "#E0B94D",
+    "#8296B0",
+    "#A98A2B",
+    "#B7C4D6",
+    "#7A6018"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1F1F1F",
+  "tableAccent": "#1F3A63",
+  "good": "#3C8C5E",
+  "neutral": "#C9A227",
+  "bad": "#B23B3B",
+  "maximum": "#1F3A63",
+  "center": "#C9A227",
+  "minimum": "#E8E8E8",
+  "null": "#B0B0B0",
+  "textClasses": {
+    "callout": {
+      "fontSize": 32,
+      "color": "#1F3A63"
+    },
+    "title": {
+      "fontSize": 14,
+      "color": "#1F1F1F"
+    },
+    "label": {
+      "fontSize": 10,
+      "color": "#595959"
+    }
+  },
+  "visualStyles": {
+    "card": {
+      "*": {
+        "categoryLabels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#595959"
+              }
+            },
+            "fontSize": 11
+          }
+        ],
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#1F3A63"
+              }
+            },
+            "fontSize": 28
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#D9D9D9"
+              }
+            },
+            "radius": 6
+          }
+        ]
+      }
+    },
+    "columnChart": {
+      "*": {
+        "dataPoint": [
+          {
+            "defaultColor": {
+              "solid": {
+                "color": "#B0B0B0"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "lineChart": {
+      "*": {
+        "dataPoint": [
+          {
+            "defaultColor": {
+              "solid": {
+                "color": "#C9A227"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
