@@ -14,7 +14,7 @@ A four-page Power BI report built for a securities brokerage trading business as
 
 | Executive View | RM Productivity |
 |---|---|
-| ![Executive View](executive_view.png) | ![RM Productivity](screenshots/02_rm_productivity.png) |
+| ![Executive View](executive_view) | ![RM Productivity](screenshots/02_rm_productivity.png) |
 
 | Customer Cohorts | Branch Performance Benchmarking |
 |---|---|
